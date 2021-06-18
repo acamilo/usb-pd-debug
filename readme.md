@@ -20,7 +20,9 @@ Picked the shifters from glasgow
 
 ## LDO
 Can handle 20v. Can output 1.8 and 3.3 and 5v
-With a 5v input, output should be around 4.5v
+
+Still not sure if I should chain these or have them all hang off of VBUS
+When the bus is 5v, the 5v LDO will output around 4.5v?
 * NCP718BSNADJT1G
 
 ## Power Switching
