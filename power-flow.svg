@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8333775"
-     inkscape:cx="348.40863"
-     inkscape:cy="156.36675"
+     inkscape:zoom="1.4166887"
+     inkscape:cx="449.5001"
+     inkscape:cy="238.1049"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -199,7 +199,7 @@
     <rect
        style="opacity:1;fill:none;fill-opacity:0.352941;stroke:#000000;stroke-width:0.352999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect916"
-       width="14.552086"
+       width="22.489584"
        height="7.9374986"
        x="87.3125"
        y="48.947918"
@@ -208,33 +208,33 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:0.85;font-family:Arial;-inkscape-font-specification:Arial;opacity:1;stroke-width:0.264583"
-       x="94.511024"
+       x="98.479774"
        y="52.719433"
        id="text841-5"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
-         x="94.511024"
+         x="98.479774"
          y="52.719433"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan845-3">LDO 3.3</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 101.86458,51.593749 h 11.90625"
+       d="m 109.80208,51.593749 h 11.90625"
        id="path941"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346" />
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583"
-       x="104.52369"
+       x="112.46119"
        y="50.275787"
        id="text851-3"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
          id="tspan849-21"
-         x="104.52369"
+         x="112.46119"
          y="50.275787"
          style="font-size:2.11667px;stroke-width:0.264583">V33SYS</tspan></text>
     <text
@@ -470,21 +470,21 @@
        inkscape:export-ydpi="100.07346" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 101.86458,60.854167 h 11.90625"
+       d="m 109.80208,60.854167 h 11.90625"
        id="path941-0"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346" />
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583"
-       x="104.52368"
+       x="112.46118"
        y="59.536205"
        id="text851-3-6"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
          id="tspan849-21-6"
-         x="104.52368"
+         x="112.46118"
          y="59.536205"
          style="font-size:2.11667px;stroke-width:0.264583">V18IO</tspan></text>
     <circle
@@ -514,21 +514,21 @@
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583"
-       x="90.529869"
+       x="89.826538"
        y="54.708729"
        id="text972-3"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
          id="tspan970-6"
-         x="90.529869"
+         x="89.826538"
          y="54.708729"
-         style="font-size:2.11667px;stroke-width:0.264583">TCK323G</tspan></text>
+         style="font-size:2.11667px;stroke-width:0.264583">NCP718BSNADJT1G</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:0.352941;stroke:#000000;stroke-width:0.352999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect916-7"
-       width="14.552087"
-       height="7.9374986"
+       width="22.489592"
+       height="7.9375014"
        x="87.312492"
        y="58.208332"
        inkscape:export-xdpi="100.07346"
@@ -536,32 +536,34 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:0.85;font-family:Arial;-inkscape-font-specification:Arial;opacity:1;stroke-width:0.264583"
-       x="94.511024"
+       x="98.458244"
        y="61.979847"
        id="text841-5-1"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
-         x="94.511024"
+         x="98.458244"
          y="61.979847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan845-3-8">LDO 1.8</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583"
-       x="90.529869"
+       x="89.826538"
        y="63.969143"
        id="text972-3-9"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
          id="tspan970-6-5"
-         x="90.529869"
+         x="89.826538"
          y="63.969143"
-         style="font-size:2.11667px;stroke-width:0.264583">TCK323G</tspan></text>
+         style="font-size:2.11667px;stroke-width:0.264583">NCP718BSNADJT1G</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 82.020832,51.593749 v 9.260417 h 5.291667"
-       id="path1362" />
+       id="path1362"
+       inkscape:export-xdpi="100.07346"
+       inkscape:export-ydpi="100.07346" />
   </g>
 </svg>
