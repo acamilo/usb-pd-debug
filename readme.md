@@ -1,5 +1,5 @@
 # Component Selection
-
+![Block Diagram](block-diag.png)
 ## Processor
 Datasheet shown in stream.
 * STM32F078VB
