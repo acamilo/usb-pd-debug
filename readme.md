@@ -18,14 +18,23 @@ Picked the shifters from glasgow
 ## PD Chip
 * FUSB302
 
+## LDO
+Can handle 20v. Can output 1.8 and 3.3
+* NCP718BSNADJT1G
+
+## Power Switching
+* TCK323G
+
 # System Power Flow
 ![Power Diagram](power-flow.png)
 
 ## VIO voltage generation
 VIO can be 1.8v The STM32 already runs at 3.3
+We can switch between 3.3 and 1.8 using a resistor and a GPIO line connected to FB resistor network.
 
 ## Aux PSU IN
 Why not make this a second USBC with it's own PD chip?
 
-## Power Switching
-* TCK323G
+
+
+
