@@ -34,6 +34,8 @@ We can switch between 3.3 and 1.8 using a resistor and a GPIO line connected to 
 
 ## Aux PSU IN
 Why not make this a second USBC with it's own PD chip?
+The existing mac charger becomes a programmable PSU we can ask for power.
+
 
 
 
