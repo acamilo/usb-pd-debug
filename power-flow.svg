@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4166887"
-     inkscape:cx="449.5001"
-     inkscape:cy="238.1049"
+     inkscape:zoom="1.4335764"
+     inkscape:cx="402.57596"
+     inkscape:cy="105.7122"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -201,41 +201,41 @@
        id="rect916"
        width="22.489584"
        height="7.9374986"
-       x="87.3125"
-       y="48.947918"
+       x="125.67709"
+       y="52.916664"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:0.85;font-family:Arial;-inkscape-font-specification:Arial;opacity:1;stroke-width:0.264583"
-       x="98.479774"
-       y="52.719433"
+       x="136.84436"
+       y="56.688183"
        id="text841-5"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
-         x="98.479774"
-         y="52.719433"
+         x="136.84436"
+         y="56.688183"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan845-3">LDO 3.3</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 109.80208,51.593749 h 11.90625"
+       d="M 148.16665,55.562497 H 160.0729"
        id="path941"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346" />
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583"
-       x="112.46119"
-       y="50.275787"
+       x="150.82578"
+       y="54.244534"
        id="text851-3"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
          id="tspan849-21"
-         x="112.46119"
-         y="50.275787"
+         x="150.82578"
+         y="54.244534"
          style="font-size:2.11667px;stroke-width:0.264583">V33SYS</tspan></text>
     <text
        xml:space="preserve"
@@ -247,7 +247,7 @@
          id="tspan961"
          x="109.80208"
          y="50.270832"
-         style="stroke-width:0.264583"></tspan></text>
+         style="stroke-width:0.264583" /></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:0.352941;stroke:#000000;stroke-width:0.352999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect968"
@@ -470,31 +470,23 @@
        inkscape:export-ydpi="100.07346" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 109.80208,60.854167 h 11.90625"
+       d="M 148.16665,64.822915 H 160.0729"
        id="path941-0"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346" />
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583"
-       x="112.46118"
-       y="59.536205"
+       x="150.82576"
+       y="63.504955"
        id="text851-3-6"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
          id="tspan849-21-6"
-         x="112.46118"
-         y="59.536205"
+         x="150.82576"
+         y="63.504955"
          style="font-size:2.11667px;stroke-width:0.264583">V18IO</tspan></text>
-    <circle
-       style="opacity:1;fill:none;fill-opacity:0.352941;stroke:#000000;stroke-width:0.26499901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path1286"
-       cx="82.020836"
-       cy="51.59375"
-       r="0.26458332"
-       inkscape:export-xdpi="100.07346"
-       inkscape:export-ydpi="100.07346" />
     <circle
        style="opacity:1;fill:none;fill-opacity:0.352941;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="path1286-4"
@@ -514,55 +506,123 @@
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583"
-       x="89.826538"
-       y="54.708729"
+       x="128.19112"
+       y="58.677479"
        id="text972-3"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
          id="tspan970-6"
-         x="89.826538"
-         y="54.708729"
+         x="128.19112"
+         y="58.677479"
          style="font-size:2.11667px;stroke-width:0.264583">NCP718BSNADJT1G</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:0.352941;stroke:#000000;stroke-width:0.352999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect916-7"
        width="22.489592"
        height="7.9375014"
-       x="87.312492"
-       y="58.208332"
+       x="125.67707"
+       y="62.177082"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:0.85;font-family:Arial;-inkscape-font-specification:Arial;opacity:1;stroke-width:0.264583"
-       x="98.458244"
-       y="61.979847"
+       x="136.82283"
+       y="65.948601"
        id="text841-5-1"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
-         x="98.458244"
-         y="61.979847"
+         x="136.82283"
+         y="65.948601"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan845-3-8">LDO 1.8</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583"
-       x="89.826538"
-       y="63.969143"
+       x="128.19112"
+       y="67.937897"
        id="text972-3-9"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346"><tspan
          sodipodi:role="line"
          id="tspan970-6-5"
-         x="89.826538"
-         y="63.969143"
+         x="128.19112"
+         y="67.937897"
+         style="font-size:2.11667px;stroke-width:0.264583">NCP718BSNADJT1G</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.352941;stroke:#000000;stroke-width:0.352999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect916-8"
+       width="22.489584"
+       height="7.9374986"
+       x="87.3125"
+       y="47.625"
+       inkscape:export-xdpi="100.07346"
+       inkscape:export-ydpi="100.07346" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.85;font-family:Arial;-inkscape-font-specification:Arial;opacity:1;stroke-width:0.264583"
+       x="98.479767"
+       y="51.396519"
+       id="text841-5-3"
+       inkscape:export-xdpi="100.07346"
+       inkscape:export-ydpi="100.07346"><tspan
+         sodipodi:role="line"
+         x="98.479767"
+         y="51.396519"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan845-3-1">5v</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.80206,50.270834 h 11.90625"
+       id="path941-2"
+       inkscape:export-xdpi="100.07346"
+       inkscape:export-ydpi="100.07346" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583"
+       x="112.46118"
+       y="48.952869"
+       id="text851-3-2"
+       inkscape:export-xdpi="100.07346"
+       inkscape:export-ydpi="100.07346"><tspan
+         sodipodi:role="line"
+         id="tspan849-21-4"
+         x="112.46118"
+         y="48.952869"
+         style="font-size:2.11667px;stroke-width:0.264583">5V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583"
+       x="89.826523"
+       y="53.385815"
+       id="text972-3-0"
+       inkscape:export-xdpi="100.07346"
+       inkscape:export-ydpi="100.07346"><tspan
+         sodipodi:role="line"
+         id="tspan970-6-1"
+         x="89.826523"
+         y="53.385815"
          style="font-size:2.11667px;stroke-width:0.264583">NCP718BSNADJT1G</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 82.020832,51.593749 v 9.260417 h 5.291667"
-       id="path1362"
+       d="m 121.70833,50.270833 v 15.874999 h 3.96875"
+       id="path4157"
+       inkscape:export-xdpi="100.07346"
+       inkscape:export-ydpi="100.07346" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.67708,56.885416 h -3.96875"
+       id="path4159"
+       inkscape:export-xdpi="100.07346"
+       inkscape:export-ydpi="100.07346" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path4161"
+       cx="121.70833"
+       cy="56.885414"
+       r="0.26458332"
        inkscape:export-xdpi="100.07346"
        inkscape:export-ydpi="100.07346" />
   </g>
