@@ -33,7 +33,7 @@ When the bus is 5v, the 5v LDO will output around 4.5v?
 
 ## VIO voltage generation
 VIO can be 1.8v The STM32 already runs at 3.3
-We can switch between 3.3 and 1.8 using a resistor and a GPIO line connected to FB resistor network.
+We can switch between 3.3 and 1.8 using a resistor and a GPIO line connected to FB resistor network or just have VIO be a fixed 1.8v and switch between 3.3 and 1.8 by choosing to use or bypass the level shiftet.
 
 ## Aux PSU IN
 Why not make this a second USBC with it's own PD chip?
