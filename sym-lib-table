@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name FSUSB73)(type Legacy)(uri ${KIPRJMOD}/sch_lib/FSUSB73.lib)(options "")(descr ""))
+  (lib (name CY7C65621-56LTXC)(type Legacy)(uri ${KIPRJMOD}/sch_lib/CY7C65621-56LTXC.lib)(options "")(descr ""))
+)
